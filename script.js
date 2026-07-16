@@ -34,7 +34,7 @@ function typeWriter(){
    Thank you for coming into my life.
 ❤️I LOVE YOU SO MUCH ❤️
 Forever Yours,
-Shana`;
+Shanaa`;
 
     let i=0;
 
