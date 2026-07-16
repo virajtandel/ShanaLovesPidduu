@@ -33,8 +33,9 @@ function typeWriter(){
    You are my favourite notification.
    Thank you for coming into my life.
 ❤️I LOVE YOU SO MUCH ❤️
-Forever Yours,
-Shanaa`;
+Forever Yours, Shanaa
+
+`;
 
     let i=0;
 
